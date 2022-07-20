@@ -84,6 +84,7 @@
             <li>Add Driver</li>
         </ul>
     </div>
+    <hr/>
     {#if $errors.DB_ERROR}
         <span class=" alert alert-error" role="alert">Error Adding Driver</span>
     {/if}
@@ -163,6 +164,7 @@
                     <span class="alert-error" role="alert">{$errors.car_reg}</span>
                 {/if}
                 <div class="card-actions justify-end">
+                    <br/>
                     <button class="btn btn-primary mt-2">Save</button>
                 </div>
             </form>
