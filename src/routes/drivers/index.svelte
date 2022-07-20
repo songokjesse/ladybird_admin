@@ -1,5 +1,13 @@
-
+<script>
+    import { supabase } from '$lib/supabaseClient';
+    import { drivers} from '../../stores/drivers.js';
+</script>
 <div class="container mx-auto px-4 mt-4">
+    <div class="text-sm breadcrumbs">
+        <ul>
+            <li><a href="/drivers">Drivers</a></li>
+        </ul>
+    </div>
     <br/>
     <div class="flex justify-between">
         <h1 class="text-3xl font-bold mb-4">Drivers</h1>
