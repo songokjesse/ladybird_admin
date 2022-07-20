@@ -25,7 +25,7 @@
     <br/>
     <hr/>
     <div class="overflow-x-auto w-full">
-        <table class="table w-full">
+        <table class="table w-full table-zebra">
             <!-- head -->
             <thead>
             <tr>
