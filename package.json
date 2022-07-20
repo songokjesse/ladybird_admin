@@ -20,6 +20,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^2.19.0"
+		"@supabase/supabase-js": "^1.35.4",
+		"daisyui": "^2.19.0",
+		"svelte-forms-lib": "^2.0.1"
 	}
 }

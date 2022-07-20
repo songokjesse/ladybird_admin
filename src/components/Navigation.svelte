@@ -1,6 +1,6 @@
 <div class="navbar bg-base-300">
     <div class="flex-1">
-        <a class="btn btn-ghost normal-case text-xl">LadyBird</a>
+        <a class="btn btn-ghost normal-case text-xl">LadyBird Cabs</a>
     </div>
     <div class="flex-none gap-2">
 <!--        <div class="form-control">-->

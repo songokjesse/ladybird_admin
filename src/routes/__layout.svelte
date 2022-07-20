@@ -4,6 +4,6 @@
 </script>
 
 <Navigation/>
-<main data-theme="valentine">
+<main >
     <slot />
 </main>
